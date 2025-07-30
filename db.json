@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Maize",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 20
+    },
+    {
+      "name": "Peas",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 22
     }
   ]
 }
